@@ -200,22 +200,22 @@
       <!-- end Interests -->
       {% endif %}
 
-      {% if site.resume_section_courses %}
-      <!-- begin Courses -->
+      {% if site.resume_section_links %}
+      <!-- begin Links -->
       <section class="content-section">
 
         <header class="section-header">
           <h2>Courses Completed</h2>
         </header>
-        {% for courses in site.data.courses %}
+        {% for links in site.data.links %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ course.course }}</h4>
-          <p class="resume-item-copy">{{ course.description }}</p>
+          <h4 class="resume-item-details">{{ link.link }}</h4>
+          <p class="resume-item-copy">{{ link.description }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Courses -->
+      <!-- end Links -->
       {% endif %}
 
       {% if site.resume_print_social_links %}
