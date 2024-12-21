@@ -2,20 +2,20 @@
 - degree: Bowling Green State University
   uni: PhD in Data Science
   year: 2019 &mdash; Present
-  #summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: 	<ul class="resume-item-list" <li>GPA: 3.94/4.0</li></ul>
 
 # MS Degress
 - degree: University of Alabama in Huntsville
   uni: MS in Computer Science
   year: 2005 &mdash; 2007
-  awards: 
-    - award: Graduate Dean's List (2007)
+  #awards: 
+    #- award: Graduate Dean's List (2007)
   #summary: You can choose to have either a single or multiple awards
 
 # BE Degree
 - degree: Kyungpook National University
   uni: BE in Electronic & Electrical Engineering 
   year: 1997 &mdash; 2001
-  awards: 
-    - award: Academic Excellence Scholarship (1997-2001)
+  #awards: 
+    #- award: Academic Excellence Scholarship (1997-2001)
 
