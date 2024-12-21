@@ -9,7 +9,7 @@
 - company: Graduate Research Assistant
   position: Bowling Green State University
   duration: May, 2020 &mdash; Aug, 2021
-  summary: <ul class="resume-item-list"><li>Built multi-stage spatial clustering models and analyzed distributions of heroin-related overdose incidents at census block group level in Cincinnati, Ohio</li><li>Built multi-stage spatial clustering models and analyzed distributions of heroin-related overdose incidents at census block group level in Cincinnati, Ohio</li><li>Showed characteristics of neighborhoods with high heroin overdose rates, such as a higher crime rate, a high percentage of males, a high poverty level, a lower education level, and a lower income level</li><li>Published two peer-reviewed articles in a public health journal and conference</li></ul>
+  summary: <ul class="resume-item-list"><li>Built multi-stage spatial clustering models and analyzed distributions of heroin-related overdose incidents at census block group level in Cincinnati, Ohio</li><li>Integrated multiple data sources, including emergency medical service responses, American Community Survey data, and health facilities datasets, employing R</li><li>Showed characteristics of neighborhoods with high heroin overdose rates, such as a higher crime rate, a high percentage of males, a high poverty level, a lower education level, and a lower income level</li><li>Published two peer-reviewed articles in a public health journal and conference</li></ul>
 
 # Graduate Teaching Assistant at UAH
 - company: Graduate Teaching Assistant
