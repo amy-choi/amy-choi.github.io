@@ -1,10 +1,10 @@
 # Links (Courses Completed)
 # BGSU
-- skill: Data Science, Bowling Green State University
-  description: 	<ul class="resume-item-list"><li>CS 5620 DB Management Systems</li></ul>
+- link: Data Science, Bowling Green State University
+  description: 	<ul class="resume-item-list"><li>CS 5620 Database Management Systems</li></ul>
 
 # UAH
-- skill: Computer Science, University of Alabama in Huntsville
-  description: <ul class="resume-item-list"><li></li></ul>
+- link: Computer Science, University of Alabama in Huntsville
+  description: <ul class="resume-item-list"><li></li>CS 545 Intro Computer Graphics</ul>
 
 
