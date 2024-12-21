@@ -6,7 +6,7 @@
   #role: Developer
   #duration: 2012 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 	<ul class="resume-item-list" <li>Developed a predictive model estimating the probability of a parking ticket being overdue and unpaid with the Chicago Parking Ticket dataset in Apache Spark in Python</li><li>Conducted exploratory data analysis on weather data from the National Climatic Data Center deploying Hadoop MapReduce</li><li>Performed K-means clustering on the Amazon Item Rating dataset utilizing Apache Spark</li></ul>
 
 # Machine Learning Projects
 - project: Machine Learning Projects
