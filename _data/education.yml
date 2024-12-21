@@ -1,24 +1,24 @@
 # OhD Degree
-- degree: Doctor of Philosophy, Data Science
-  uni: Bowling Green State University
+- degree: Bowling Green State University
+  uni: Doctor of Philosophy, Data Science
   year: Expected May 2025
   award: 
     - award: GPA: 3.94/4.0 
   #summary: If you had any meaningful roles at college, feel free to write about them here
 
 # MS Degress
-- degree: Master of Science, Computer Science
-  uni: University of Alabama in Huntsville
+- degree: University of Alabama in Huntsville
+  uni: Master of Science, Computer Science
   year: 2005 &mdash; 2007
   award: 
     - award: GPA: 3.91/4.0
-    - award: Graduate Dean's List (2007)
+      award: Graduate Dean's List (2007)
   #summary: You can choose to have either a single or multiple awards
 
 # BE Degree
-- degree: Bachelor of Engineering, Electronic & Electrical Engineering
-  uni: Kyungpook National University
+- degree: Kyungpook National University
+  uni: Bachelor of Engineering, Electronic & Electrical Engineering 
   year: 1997 &mdash; 2001
   award: 
     - award: GPA: 3.51/4.3
-    - award: Academic Excellence Scholarship (1997-2001)
+      award: Academic Excellence Scholarship (1997-2001)
