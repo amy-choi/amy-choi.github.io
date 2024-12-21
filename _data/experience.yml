@@ -3,26 +3,20 @@
 - company: Bowling Green State University
   position: Graduate Research Assistant
   duration: Aug, 2021 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Constructed a unified, proactive location-aware deep discriminant analysis framework for efficient and robust visual detection in self-driving vehicles, PyTorch deployment</li>
-  <li>Compressed deep detectors, surpassing original models and improving robustness against adversarial attacks</li>
-  <li>Achieved a compression ratio of less than one-third of the original model size, resulting in an average speed-up of approximately 54% on the CPU and 42% on the GPU</li>
-  <li>Published four peer-reviewed articles as a first author in computer vision and deep learning journals and conferences, with two additional submissions completed during this project</li></ul>
+  summary: <ul class="resume-item-list"><li>Constructed a unified, proactive location-aware deep discriminant analysis framework for efficient and robust visual detection in self-driving vehicles, PyTorch deployment</li><li>Compressed deep detectors, surpassing original models and improving robustness against adversarial attacks</li><li>Achieved a compression ratio of less than one-third of the original model size, resulting in an average speed-up of approximately 54% on the CPU and 42% on the GPU</li><li>Published four peer-reviewed articles as a first author in computer vision and deep learning journals and conferences, with two additional submissions completed during this project</li></ul>
 
 # Graduate Research Assistant at BGSU
 - company: Bowling Green State University
   position: Graduate Research Assistant
   duration: May, 2020 &mdash; Aug, 2021
-  summary: <ul class="resume-item-list"><li>Built multi-stage spatial clustering models and analyzed distributions of heroin-related overdose incidents at census block group level in Cincinnati, Ohio</li>
-  <li>Built multi-stage spatial clustering models and analyzed distributions of heroin-related overdose incidents at census block group level in Cincinnati, Ohio</li>
-  <li>Showed characteristics of neighborhoods with high heroin overdose rates, such as a higher crime rate, a high percentage of males, a high poverty level, a lower education level, and a lower income level</li>
-  <li>Published two peer-reviewed articles in a public health journal and conference</li></ul>
+  summary: <ul class="resume-item-list"><li>Built multi-stage spatial clustering models and analyzed distributions of heroin-related overdose incidents at census block group level in Cincinnati, Ohio</li><li>Built multi-stage spatial clustering models and analyzed distributions of heroin-related overdose incidents at census block group level in Cincinnati, Ohio</li><li>Showed characteristics of neighborhoods with high heroin overdose rates, such as a higher crime rate, a high percentage of males, a high poverty level, a lower education level, and a lower income level</li><li>Published two peer-reviewed articles in a public health journal and conference</li></ul>
 
 # Graduate Teaching Assistant at UAH
 - company: University of Alabama in Huntsville
   position: Graduate Teaching Assistant
   duration:  Jan, 2007 &mdash; Dec, 2007
   summary: <ul class="resume-item-list"><li>Provided regular one-on-one tutoring and graded all assignments</li><li>courses - Introduction to Design and Analysis of Algorithms (CS 317), Object-Oriented Programming in C++ (CS 307), Programming Languages (CS 524)</li></ul>
-
+  
 # Graduate Research Assistant at UAH
 - company: University of Alabama in Huntsville
   position: Graduate Research Assistant
