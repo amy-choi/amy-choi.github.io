@@ -1,9 +1,7 @@
-# OhD Degree
+# PhD Degree
 - degree: Bowling Green State University
   uni: PhD in Data Science
   year: 2019 &mdash; Present
-  awards: 
-    - award: GPA: 3.94/4.0 
   #summary: If you had any meaningful roles at college, feel free to write about them here
 
 # MS Degress
@@ -11,8 +9,7 @@
   uni: MS in Computer Science
   year: 2005 &mdash; 2007
   awards: 
-    - award: GPA: 3.91/4.0 
-      award: Graduate Dean's List (2007)
+    - award: Graduate Dean's List (2007)
   #summary: You can choose to have either a single or multiple awards
 
 # BE Degree
