@@ -10,7 +10,7 @@
 - degree: University of Alabama in Huntsville
   uni: MS in Computer Science
   year: 2005 &mdash; 2007
-  award: 
+  awards: 
     - award: Graduate Dean's List (2007)
   #summary: You can choose to have either a single or multiple awards
 
@@ -18,6 +18,6 @@
 - degree: Kyungpook National University
   uni: BE in Electronic & Electrical Engineering 
   year: 1997 &mdash; 2001
-  award: 
+  awards: 
     - award: Academic Excellence Scholarship (1997-2001)
 
