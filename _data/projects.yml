@@ -8,16 +8,16 @@
   # url: "#"
   description: 	<ul class="resume-item-list"><li>Developed a predictive model estimating the probability of a parking ticket being overdue and unpaid with the Chicago Parking Ticket dataset in Apache Spark in Python</li><li>Conducted exploratory data analysis on weather data from the National Climatic Data Center deploying Hadoop MapReduce</li><li>Performed K-means clustering on the Amazon Item Rating dataset utilizing Apache Spark</li></ul>
 
-# Machine Learning Projects
+# Machine Learning Projects in Python
 - project: Machine Learning Projects
   #role: Co-Founder & Organizer
   #duration: 2007 &mdash; Present
   # url: "#"
   description: <ul class="resume-item-list"><li>Predicted customer behavior in a Portuguese bank marketing campaign dataset</li><li>Created income prediction model using the Adult Census Income dataset</li><li>Created income prediction model using the Adult Census Income dataset</li></ul>
 
-# Statistics Projects
+# Statistics Projects in R
 - project: Statistics Projects
   #role: Co-Founder & Organizer
   #duration: 2007 &mdash; Present
   # url: "#"
-  description: <ul class="resume-item-list"><li>Performed Bayesian analysis on psychological therapy data to evaluate equality of therapy proportions between two groups; implemented Bayesian randomized response techniques for robust group comparison insights</li><li>Analyzed three or more samples of varying sizes using non-parametric tests, including the Kruskal-Wallis test, to identify significant group differences in R</li></ul>
+  description: <ul class="resume-item-list"><li>Performed Bayesian analysis on psychological therapy data to evaluate equality of therapy proportions between two groups; implemented Bayesian randomized response techniques for robust group comparison insights</li><li>Analyzed three or more samples of varying sizes using non-parametric tests, including the Kruskal-Wallis test, to identify significant group differences</li></ul>
