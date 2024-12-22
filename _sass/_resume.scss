@@ -174,7 +174,7 @@
   .resume-item-copy { margin: .75rem 0 0; }
 
   .two-col-special {
-    border: 1px dotted blue;
+    border: none;
     overflow: auto;
     margin: 0;
     padding: 0;
@@ -182,7 +182,7 @@
 
   .two-col-special li {
     display: inline-block;
-    width: 45%;
+    width: 55%;
     margin: 0;
     padding: 0;
     vertical-align: top; /* In case multi-word categories form two lines */
@@ -191,7 +191,7 @@
     content: '+';
     padding: 5px;
     margin-right: 5px; /* you can tweak the gap */
-    color: orange;
+    color: #333;
     background-color: white; /* in case you want a color... */
     display: inline-block;
   }
