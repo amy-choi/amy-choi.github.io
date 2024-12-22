@@ -182,15 +182,15 @@
 
   .two-col-special li {
     display: inline-block;
-    width: 45%;
+    width: 50%;
     margin: 0;
     padding: 0;
     vertical-align: top; /* In case multi-word categories form two lines */
   }
   .two-col-special li:before {
-    #content: '+';
+    content: '•';
     padding: 5px;
-    margin-right: 20px; /* you can tweak the gap */
+    margin-right: 5px; /* you can tweak the gap */
     color: #333;
     background-color: white; /* in case you want a color... */
     display: inline-block;
