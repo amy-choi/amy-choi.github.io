@@ -13,11 +13,11 @@
   #role: Co-Founder & Organizer
   #duration: 2007 &mdash; Present
   # url: "#"
-  description: <ul class="resume-item-list"><li>Predicted customer behavior in a Portuguese bank marketing campaign dataset</li><li>Created income prediction model using the Adult Census Income dataset</li><li>Created income prediction model using the Adult Census Income dataset</li></ul>
+  description: <ul class="resume-item-list"><li>Predicted customer behavior in a Portuguese bank marketing campaign dataset</li><li>Created income prediction model using the Adult Census Income dataset</li></ul>
 
 # Statistics Projects in R
 - project: Statistics Projects
   #role: Co-Founder & Organizer
   #duration: 2007 &mdash; Present
   # url: "#"
-  description: <ul class="resume-item-list"><li>Performed Bayesian analysis on psychological therapy data to evaluate equality of therapy proportions between two groups; implemented Bayesian randomized response techniques for robust group comparison insights</li><li>Analyzed three or more samples of varying sizes using non-parametric tests, including the Kruskal-Wallis test, to identify significant group differences</li></ul>
+  description: <ul class="resume-item-list"><li>Performed Bayesian analysis on psychological therapy data to evaluate equality of therapy proportions between two groups; implemented Bayesian randomized response techniques to gain robust insights from group comparisons</li><li>Analyzed three or more samples of varying sizes using non-parametric tests, including the Kruskal-Wallis test, to identify significant group differences</li></ul>
