@@ -14,7 +14,7 @@ resume_name:                    "Jung Im 'Amy' Choi"
 resume_title:                   "Data Scientist"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "jchoi3640@gmail.com"
+resume_contact_email:           "jchoi3640@yahoo.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "256-653-5035"
