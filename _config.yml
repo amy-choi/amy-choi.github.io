@@ -23,7 +23,7 @@ resume_contact_address:         "Bowling Green, OH"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I earned my Ph.D. in Data Science from Bowling Green State University, where my research focused on advancing computer vision and machine learning. Specifically, I explored adversarial robustness, neural network pruning, and deep object detection for autonomous driving. Currently, I am developing cutting-edge methods to enhance the efficiency and adversarial robustness of deep-learning-based visual detectors, addressing critical challenges in resource-constrained and safety-critical environments.</p>"
+resume_header_intro: "<p>I am an Assistant Professor of Computer Science at the University of Findlay in Ohio, USA. I earned a Ph.D. in Data Science from Bowling Green State University and a Master’s degree in Computer Science from the University of Alabama in Huntsville. My research interests include computer vision and machine/deep learning, with a focus on adversarial robustness, neural network pruning, and deep object detection for autonomous driving applications.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
