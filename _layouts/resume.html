@@ -50,6 +50,27 @@
 	      
       </header>
 
+      {% if site.resume_section_interests %}
+      <!-- begin Research Interests -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Research Interests</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+          <li>Adversarial Robustness in Deep Learning </li>  
+          <li>Neural Network Pruning </li>
+          <li>Deep Visual Obejct Detection, especially in autonomous driving </li>  
+	  <li>Interpretable AI for Safety-Critical Systems</li>	  
+	  </ul>
+        </div>
+
+      </section>
+      <!-- end Research Interests -->
+      {% endif %}
+	    
       {% if site.resume_section_experience %}
       <!-- begin Work Experience -->
       <section class="content-section">
@@ -184,26 +205,6 @@
       <!-- end Activations -->
       {% endif %}
 	  
-      {% if site.resume_section_interests %}
-      <!-- begin Research Interests -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Research Interests</h2>
-        </header>
-
-        <div class="resume-item">
-          <ul class="resume-item-list">
-          <li>Adversarial Robustness of Deep Models </li>  
-          <li>Neural Network Pruning </li>
-          <li>Deep Visual Detection, especially in autonomous driving </li>  
-	  <li>Interpretable AI in Safety-Critical Domains</li>	  
-	  </ul>
-        </div>
-
-      </section>
-      <!-- end Research Interests -->
-      {% endif %}
 
       {% if site.resume_section_links %}
       <!-- begin Links -->
